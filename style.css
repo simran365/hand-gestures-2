@@ -1,0 +1,26 @@
+body
+{
+  color: rgb(206, 112, 112);
+  background: #9762d2;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 5px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
